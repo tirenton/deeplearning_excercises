@@ -1,1 +1,1 @@
-# deeplearning_excercises
+# Deep Learning Exercise
